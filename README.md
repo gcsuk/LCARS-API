@@ -1,2 +1,2 @@
 # LCARS-API
-API for the LCARS dashboard interface
+API for the [LCARS](https://github.com/gcsuk/LCARS) dashboard interface
